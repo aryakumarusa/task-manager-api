@@ -24,3 +24,9 @@ http://127.0.0.1:8000/docs
 GET / → Health check  
 GET /tasks → Retrieve all tasks  
 POST /tasks → Create a new task
+
+## Author
+
+Arya Kumar  
+Data Science Student at University of North Texas  
+LinkedIn: https://www.linkedin.com/in/aryakumar06/
