@@ -18,3 +18,9 @@ uvicorn main:app --reload
 
 Docs available at:
 http://127.0.0.1:8000/docs
+
+## API Endpoints
+
+GET / → Health check  
+GET /tasks → Retrieve all tasks  
+POST /tasks → Create a new task
